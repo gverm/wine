@@ -18762,3 +18762,1199 @@ msgstr ""
 "\t\tden oppgitte datoen. Hvis ingen dato oppgis kopieres det bare hvis\n"
 "\t\tmålet er eldre enn kilden.\n"
 "\n"
+
+#: kernelbase.rc:27
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: kernelbase.rc:28
+msgid "Afghanistan"
+msgstr ""
+
+#: kernelbase.rc:29
+msgid "Algeria"
+msgstr ""
+
+#: kernelbase.rc:30
+msgid "Azerbaijan"
+msgstr ""
+
+#: kernelbase.rc:31
+msgid "Albania"
+msgstr ""
+
+#: kernelbase.rc:32
+msgid "Armenia"
+msgstr ""
+
+#: kernelbase.rc:33
+msgid "Andorra"
+msgstr ""
+
+#: kernelbase.rc:34
+msgid "Angola"
+msgstr ""
+
+#: kernelbase.rc:35
+msgid "American Samoa"
+msgstr ""
+
+#: kernelbase.rc:36
+msgid "Argentina"
+msgstr ""
+
+#: kernelbase.rc:37
+msgid "Australia"
+msgstr ""
+
+#: kernelbase.rc:38
+msgid "Austria"
+msgstr ""
+
+#: kernelbase.rc:39
+msgid "Bahrain"
+msgstr ""
+
+#: kernelbase.rc:40
+msgid "Barbados"
+msgstr ""
+
+#: kernelbase.rc:41
+msgid "Botswana"
+msgstr ""
+
+#: kernelbase.rc:42
+msgid "Bermuda"
+msgstr ""
+
+#: kernelbase.rc:43
+msgid "Belgium"
+msgstr ""
+
+#: kernelbase.rc:44
+msgid "Bahamas, The"
+msgstr ""
+
+#: kernelbase.rc:45
+msgid "Bangladesh"
+msgstr ""
+
+#: kernelbase.rc:46
+msgid "Belize"
+msgstr ""
+
+#: kernelbase.rc:47
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: kernelbase.rc:48
+msgid "Bolivia"
+msgstr ""
+
+#: kernelbase.rc:49
+msgid "Myanmar"
+msgstr ""
+
+#: kernelbase.rc:50
+msgid "Benin"
+msgstr ""
+
+#: kernelbase.rc:51
+msgid "Belarus"
+msgstr ""
+
+#: kernelbase.rc:52
+msgid "Solomon Islands"
+msgstr ""
+
+#: kernelbase.rc:53
+msgid "Brazil"
+msgstr ""
+
+#: kernelbase.rc:54
+msgid "Bhutan"
+msgstr ""
+
+#: kernelbase.rc:55
+msgid "Bulgaria"
+msgstr ""
+
+#: kernelbase.rc:56
+msgid "Brunei"
+msgstr ""
+
+#: kernelbase.rc:57
+msgid "Burundi"
+msgstr ""
+
+#: kernelbase.rc:58
+msgid "Canada"
+msgstr ""
+
+#: kernelbase.rc:59
+msgid "Cambodia"
+msgstr ""
+
+#: kernelbase.rc:60
+msgid "Chad"
+msgstr ""
+
+#: kernelbase.rc:61
+msgid "Sri Lanka"
+msgstr ""
+
+#: kernelbase.rc:62
+msgid "Congo"
+msgstr ""
+
+#: kernelbase.rc:63
+msgid "Congo (DRC)"
+msgstr ""
+
+#: kernelbase.rc:64
+msgid "China"
+msgstr ""
+
+#: kernelbase.rc:65
+msgid "Chile"
+msgstr ""
+
+#: kernelbase.rc:66
+msgid "Cameroon"
+msgstr ""
+
+#: kernelbase.rc:67
+msgid "Comoros"
+msgstr ""
+
+#: kernelbase.rc:68
+msgid "Colombia"
+msgstr ""
+
+#: kernelbase.rc:69
+msgid "Costa Rica"
+msgstr ""
+
+#: kernelbase.rc:70
+msgid "Central African Republic"
+msgstr ""
+
+#: kernelbase.rc:71
+msgid "Cuba"
+msgstr ""
+
+#: kernelbase.rc:72
+msgid "Cabo Verde"
+msgstr ""
+
+#: kernelbase.rc:73
+msgid "Cyprus"
+msgstr ""
+
+#: kernelbase.rc:74
+msgid "Denmark"
+msgstr ""
+
+#: kernelbase.rc:75
+msgid "Djibouti"
+msgstr ""
+
+#: kernelbase.rc:76
+msgid "Dominica"
+msgstr ""
+
+#: kernelbase.rc:77
+msgid "Dominican Republic"
+msgstr ""
+
+#: kernelbase.rc:78
+msgid "Ecuador"
+msgstr ""
+
+#: kernelbase.rc:79
+msgid "Egypt"
+msgstr ""
+
+#: kernelbase.rc:80
+msgid "Ireland"
+msgstr ""
+
+#: kernelbase.rc:81
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: kernelbase.rc:82
+msgid "Estonia"
+msgstr ""
+
+#: kernelbase.rc:83
+msgid "Eritrea"
+msgstr ""
+
+#: kernelbase.rc:84
+msgid "El Salvador"
+msgstr ""
+
+#: kernelbase.rc:85
+msgid "Ethiopia"
+msgstr ""
+
+#: kernelbase.rc:86
+msgid "Czech Republic"
+msgstr ""
+
+#: kernelbase.rc:87
+msgid "Finland"
+msgstr ""
+
+#: kernelbase.rc:88
+msgid "Fiji"
+msgstr ""
+
+#: kernelbase.rc:89 kernelbase.rc:293
+msgid "Micronesia"
+msgstr ""
+
+#: kernelbase.rc:90
+msgid "Faroe Islands"
+msgstr ""
+
+#: kernelbase.rc:91
+msgid "France"
+msgstr ""
+
+#: kernelbase.rc:92
+msgid "Gambia"
+msgstr ""
+
+#: kernelbase.rc:93
+msgid "Gabon"
+msgstr ""
+
+#: kernelbase.rc:94
+msgid "Georgia"
+msgstr ""
+
+#: kernelbase.rc:95
+msgid "Ghana"
+msgstr ""
+
+#: kernelbase.rc:96
+msgid "Gibraltar"
+msgstr ""
+
+#: kernelbase.rc:97
+msgid "Grenada"
+msgstr ""
+
+#: kernelbase.rc:98
+msgid "Greenland"
+msgstr ""
+
+#: kernelbase.rc:99
+msgid "Germany"
+msgstr ""
+
+#: kernelbase.rc:100
+msgid "Greece"
+msgstr ""
+
+#: kernelbase.rc:101
+msgid "Guatemala"
+msgstr ""
+
+#: kernelbase.rc:102
+msgid "Guinea"
+msgstr ""
+
+#: kernelbase.rc:103
+msgid "Guyana"
+msgstr ""
+
+#: kernelbase.rc:104
+msgid "Haiti"
+msgstr ""
+
+#: kernelbase.rc:105
+msgid "Hong Kong SAR"
+msgstr ""
+
+#: kernelbase.rc:106
+msgid "Honduras"
+msgstr ""
+
+#: kernelbase.rc:107
+msgid "Croatia"
+msgstr ""
+
+#: kernelbase.rc:108
+msgid "Hungary"
+msgstr ""
+
+#: kernelbase.rc:109
+msgid "Iceland"
+msgstr ""
+
+#: kernelbase.rc:110
+msgid "Indonesia"
+msgstr ""
+
+#: kernelbase.rc:111
+msgid "India"
+msgstr ""
+
+#: kernelbase.rc:112
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: kernelbase.rc:113
+msgid "Iran"
+msgstr ""
+
+#: kernelbase.rc:114
+msgid "Israel"
+msgstr ""
+
+#: kernelbase.rc:115
+msgid "Italy"
+msgstr ""
+
+#: kernelbase.rc:116
+msgid "Côte d'Ivoire"
+msgstr ""
+
+#: kernelbase.rc:117
+msgid "Iraq"
+msgstr ""
+
+#: kernelbase.rc:118
+msgid "Japan"
+msgstr ""
+
+#: kernelbase.rc:119
+msgid "Jamaica"
+msgstr ""
+
+#: kernelbase.rc:120
+msgid "Jan Mayen"
+msgstr ""
+
+#: kernelbase.rc:121
+msgid "Jordan"
+msgstr ""
+
+#: kernelbase.rc:122
+msgid "Johnston Atoll"
+msgstr ""
+
+#: kernelbase.rc:123
+msgid "Kenya"
+msgstr ""
+
+#: kernelbase.rc:124
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: kernelbase.rc:125
+msgid "North Korea"
+msgstr ""
+
+#: kernelbase.rc:126
+msgid "Kiribati"
+msgstr ""
+
+#: kernelbase.rc:127
+msgid "Korea"
+msgstr ""
+
+#: kernelbase.rc:128
+msgid "Kuwait"
+msgstr ""
+
+#: kernelbase.rc:129
+msgid "Kazakhstan"
+msgstr ""
+
+#: kernelbase.rc:130
+msgid "Laos"
+msgstr ""
+
+#: kernelbase.rc:131
+msgid "Lebanon"
+msgstr ""
+
+#: kernelbase.rc:132
+msgid "Latvia"
+msgstr ""
+
+#: kernelbase.rc:133
+msgid "Lithuania"
+msgstr ""
+
+#: kernelbase.rc:134
+msgid "Liberia"
+msgstr ""
+
+#: kernelbase.rc:135
+msgid "Slovakia"
+msgstr ""
+
+#: kernelbase.rc:136
+msgid "Liechtenstein"
+msgstr ""
+
+#: kernelbase.rc:137
+msgid "Lesotho"
+msgstr ""
+
+#: kernelbase.rc:138
+msgid "Luxembourg"
+msgstr ""
+
+#: kernelbase.rc:139
+msgid "Libya"
+msgstr ""
+
+#: kernelbase.rc:140
+msgid "Madagascar"
+msgstr ""
+
+#: kernelbase.rc:141
+msgid "Macao SAR"
+msgstr ""
+
+#: kernelbase.rc:142
+msgid "Moldova"
+msgstr ""
+
+#: kernelbase.rc:143
+msgid "Mongolia"
+msgstr ""
+
+#: kernelbase.rc:144
+msgid "Malawi"
+msgstr ""
+
+#: kernelbase.rc:145
+msgid "Mali"
+msgstr ""
+
+#: kernelbase.rc:146
+msgid "Monaco"
+msgstr ""
+
+#: kernelbase.rc:147
+msgid "Morocco"
+msgstr ""
+
+#: kernelbase.rc:148
+msgid "Mauritius"
+msgstr ""
+
+#: kernelbase.rc:149
+msgid "Mauritania"
+msgstr ""
+
+#: kernelbase.rc:150
+msgid "Malta"
+msgstr ""
+
+#: kernelbase.rc:151
+msgid "Oman"
+msgstr ""
+
+#: kernelbase.rc:152
+msgid "Maldives"
+msgstr ""
+
+#: kernelbase.rc:153
+msgid "Mexico"
+msgstr ""
+
+#: kernelbase.rc:154
+msgid "Malaysia"
+msgstr ""
+
+#: kernelbase.rc:155
+msgid "Mozambique"
+msgstr ""
+
+#: kernelbase.rc:156
+msgid "Niger"
+msgstr ""
+
+#: kernelbase.rc:157
+msgid "Vanuatu"
+msgstr ""
+
+#: kernelbase.rc:158
+msgid "Nigeria"
+msgstr ""
+
+#: kernelbase.rc:159
+msgid "Netherlands"
+msgstr ""
+
+#: kernelbase.rc:160
+msgid "Norway"
+msgstr ""
+
+#: kernelbase.rc:161
+msgid "Nepal"
+msgstr ""
+
+#: kernelbase.rc:162
+msgid "Nauru"
+msgstr ""
+
+#: kernelbase.rc:163
+msgid "Suriname"
+msgstr ""
+
+#: kernelbase.rc:164
+msgid "Nicaragua"
+msgstr ""
+
+#: kernelbase.rc:165
+msgid "New Zealand"
+msgstr ""
+
+#: kernelbase.rc:166
+msgid "Palestinian Authority"
+msgstr ""
+
+#: kernelbase.rc:167
+msgid "Paraguay"
+msgstr ""
+
+#: kernelbase.rc:168
+msgid "Peru"
+msgstr ""
+
+#: kernelbase.rc:169
+msgid "Pakistan"
+msgstr ""
+
+#: kernelbase.rc:170
+msgid "Poland"
+msgstr ""
+
+#: kernelbase.rc:171
+msgid "Panama"
+msgstr ""
+
+#: kernelbase.rc:172
+msgid "Portugal"
+msgstr ""
+
+#: kernelbase.rc:173
+msgid "Papua New Guinea"
+msgstr ""
+
+#: kernelbase.rc:174
+msgid "Palau"
+msgstr ""
+
+#: kernelbase.rc:175
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: kernelbase.rc:176
+msgid "Qatar"
+msgstr ""
+
+#: kernelbase.rc:177
+msgid "Reunion"
+msgstr ""
+
+#: kernelbase.rc:178
+msgid "Marshall Islands"
+msgstr ""
+
+#: kernelbase.rc:179
+msgid "Romania"
+msgstr ""
+
+#: kernelbase.rc:180
+msgid "Philippines"
+msgstr ""
+
+#: kernelbase.rc:181
+msgid "Puerto Rico"
+msgstr ""
+
+#: kernelbase.rc:182
+msgid "Russia"
+msgstr ""
+
+#: kernelbase.rc:183
+msgid "Rwanda"
+msgstr ""
+
+#: kernelbase.rc:184
+msgid "Saudi Arabia"
+msgstr ""
+
+#: kernelbase.rc:185
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: kernelbase.rc:186
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: kernelbase.rc:187
+msgid "Seychelles"
+msgstr ""
+
+#: kernelbase.rc:188
+msgid "South Africa"
+msgstr ""
+
+#: kernelbase.rc:189
+msgid "Senegal"
+msgstr ""
+
+#: kernelbase.rc:190
+msgid "Slovenia"
+msgstr ""
+
+#: kernelbase.rc:191
+msgid "Sierra Leone"
+msgstr ""
+
+#: kernelbase.rc:192
+msgid "San Marino"
+msgstr ""
+
+#: kernelbase.rc:193
+msgid "Singapore"
+msgstr ""
+
+#: kernelbase.rc:194
+msgid "Somalia"
+msgstr ""
+
+#: kernelbase.rc:195
+msgid "Spain"
+msgstr ""
+
+#: kernelbase.rc:196
+msgid "Saint Lucia"
+msgstr ""
+
+#: kernelbase.rc:197
+msgid "Sudan"
+msgstr ""
+
+#: kernelbase.rc:198
+msgid "Svalbard"
+msgstr ""
+
+#: kernelbase.rc:199
+msgid "Sweden"
+msgstr ""
+
+#: kernelbase.rc:200
+msgid "Syria"
+msgstr ""
+
+#: kernelbase.rc:201
+msgid "Switzerland"
+msgstr ""
+
+#: kernelbase.rc:202
+msgid "United Arab Emirates"
+msgstr ""
+
+#: kernelbase.rc:203
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: kernelbase.rc:204
+msgid "Thailand"
+msgstr ""
+
+#: kernelbase.rc:205
+msgid "Tajikistan"
+msgstr ""
+
+#: kernelbase.rc:206
+msgid "Tonga"
+msgstr ""
+
+#: kernelbase.rc:207
+msgid "Togo"
+msgstr ""
+
+#: kernelbase.rc:208
+msgid "São Tomé and Príncipe"
+msgstr ""
+
+#: kernelbase.rc:209
+msgid "Tunisia"
+msgstr ""
+
+#: kernelbase.rc:210
+msgid "Turkey"
+msgstr ""
+
+#: kernelbase.rc:211
+msgid "Tuvalu"
+msgstr ""
+
+#: kernelbase.rc:212
+msgid "Taiwan"
+msgstr ""
+
+#: kernelbase.rc:213
+msgid "Turkmenistan"
+msgstr ""
+
+#: kernelbase.rc:214
+msgid "Tanzania"
+msgstr ""
+
+#: kernelbase.rc:215
+msgid "Uganda"
+msgstr ""
+
+#: kernelbase.rc:216
+msgid "Ukraine"
+msgstr ""
+
+#: kernelbase.rc:217
+msgid "United Kingdom"
+msgstr ""
+
+#: kernelbase.rc:218
+msgid "United States"
+msgstr ""
+
+#: kernelbase.rc:219
+msgid "Burkina Faso"
+msgstr ""
+
+#: kernelbase.rc:220
+msgid "Uruguay"
+msgstr ""
+
+#: kernelbase.rc:221
+msgid "Uzbekistan"
+msgstr ""
+
+#: kernelbase.rc:222
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: kernelbase.rc:223
+msgid "Venezuela"
+msgstr ""
+
+#: kernelbase.rc:224
+msgid "Vietnam"
+msgstr ""
+
+#: kernelbase.rc:225
+msgid "U.S. Virgin Islands"
+msgstr ""
+
+#: kernelbase.rc:226
+msgid "Vatican City"
+msgstr ""
+
+#: kernelbase.rc:227
+msgid "Namibia"
+msgstr ""
+
+#: kernelbase.rc:228
+msgid "Wake Island"
+msgstr ""
+
+#: kernelbase.rc:229
+msgid "Samoa"
+msgstr ""
+
+#: kernelbase.rc:230
+msgid "Eswatini"
+msgstr ""
+
+#: kernelbase.rc:231
+msgid "Yemen"
+msgstr ""
+
+#: kernelbase.rc:232
+msgid "Zambia"
+msgstr ""
+
+#: kernelbase.rc:233
+msgid "Zimbabwe"
+msgstr ""
+
+#: kernelbase.rc:234
+msgid "Serbia and Montenegro (Former)"
+msgstr ""
+
+#: kernelbase.rc:235
+msgid "Montenegro"
+msgstr ""
+
+#: kernelbase.rc:236
+msgid "Serbia"
+msgstr ""
+
+#: kernelbase.rc:237
+msgid "Curaçao"
+msgstr ""
+
+#: kernelbase.rc:238
+msgid "South Sudan"
+msgstr ""
+
+#: kernelbase.rc:239
+msgid "Anguilla"
+msgstr ""
+
+#: kernelbase.rc:240
+msgid "Antarctica"
+msgstr ""
+
+#: kernelbase.rc:241
+msgid "Aruba"
+msgstr ""
+
+#: kernelbase.rc:242
+msgid "Ascension Island"
+msgstr ""
+
+#: kernelbase.rc:243
+msgid "Ashmore and Cartier Islands"
+msgstr ""
+
+#: kernelbase.rc:244
+msgid "Baker Island"
+msgstr ""
+
+#: kernelbase.rc:245
+msgid "Bouvet Island"
+msgstr ""
+
+#: kernelbase.rc:246
+msgid "Cayman Islands"
+msgstr ""
+
+#: kernelbase.rc:247
+msgid "Channel Islands"
+msgstr ""
+
+#: kernelbase.rc:248
+msgid "Christmas Island"
+msgstr ""
+
+#: kernelbase.rc:249
+msgid "Clipperton Island"
+msgstr ""
+
+#: kernelbase.rc:250
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: kernelbase.rc:251
+msgid "Cook Islands"
+msgstr ""
+
+#: kernelbase.rc:252
+msgid "Coral Sea Islands"
+msgstr ""
+
+#: kernelbase.rc:253
+msgid "Diego Garcia"
+msgstr ""
+
+#: kernelbase.rc:254
+msgid "Falkland Islands"
+msgstr ""
+
+#: kernelbase.rc:255
+msgid "French Guiana"
+msgstr ""
+
+#: kernelbase.rc:256
+msgid "French Polynesia"
+msgstr ""
+
+#: kernelbase.rc:257
+msgid "French Southern Territories"
+msgstr ""
+
+#: kernelbase.rc:258
+msgid "Guadeloupe"
+msgstr ""
+
+#: kernelbase.rc:259
+msgid "Guam"
+msgstr ""
+
+#: kernelbase.rc:260
+msgid "Guantanamo Bay"
+msgstr ""
+
+#: kernelbase.rc:261
+msgid "Guernsey"
+msgstr ""
+
+#: kernelbase.rc:262
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: kernelbase.rc:263
+msgid "Howland Island"
+msgstr ""
+
+#: kernelbase.rc:264
+msgid "Jarvis Island"
+msgstr ""
+
+#: kernelbase.rc:265
+msgid "Jersey"
+msgstr ""
+
+#: kernelbase.rc:266
+msgid "Kingman Reef"
+msgstr ""
+
+#: kernelbase.rc:267
+msgid "Martinique"
+msgstr ""
+
+#: kernelbase.rc:268
+msgid "Mayotte"
+msgstr ""
+
+#: kernelbase.rc:269
+msgid "Montserrat"
+msgstr ""
+
+#: kernelbase.rc:270
+msgid "Netherlands Antilles (Former)"
+msgstr ""
+
+#: kernelbase.rc:271
+msgid "New Caledonia"
+msgstr ""
+
+#: kernelbase.rc:272
+msgid "Niue"
+msgstr ""
+
+#: kernelbase.rc:273
+msgid "Norfolk Island"
+msgstr ""
+
+#: kernelbase.rc:274
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: kernelbase.rc:275
+msgid "Palmyra Atoll"
+msgstr ""
+
+#: kernelbase.rc:276
+msgid "Pitcairn Islands"
+msgstr ""
+
+#: kernelbase.rc:277
+msgid "Rota Island"
+msgstr ""
+
+#: kernelbase.rc:278
+msgid "Saipan"
+msgstr ""
+
+#: kernelbase.rc:279
+msgid "South Georgia and the South Sandwich Islands"
+msgstr ""
+
+#: kernelbase.rc:280
+msgid "St Helena, Ascension and Tristan da Cunha"
+msgstr ""
+
+#: kernelbase.rc:281
+msgid "Tinian Island"
+msgstr ""
+
+#: kernelbase.rc:282
+msgid "Tokelau"
+msgstr ""
+
+#: kernelbase.rc:283
+msgid "Tristan da Cunha"
+msgstr ""
+
+#: kernelbase.rc:284
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: kernelbase.rc:285
+msgid "British Virgin Islands"
+msgstr ""
+
+#: kernelbase.rc:286
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: kernelbase.rc:287
+msgid "Africa"
+msgstr ""
+
+#: kernelbase.rc:288
+msgid "Asia"
+msgstr ""
+
+#: kernelbase.rc:289
+msgid "Europe"
+msgstr ""
+
+#: kernelbase.rc:290
+msgid "Isle of Man"
+msgstr ""
+
+#: kernelbase.rc:291
+msgid "North Macedonia"
+msgstr ""
+
+#: kernelbase.rc:292
+msgid "Melanesia"
+msgstr ""
+
+#: kernelbase.rc:294
+msgid "Midway Islands"
+msgstr ""
+
+#: kernelbase.rc:295
+msgid "Northern America"
+msgstr ""
+
+#: kernelbase.rc:296
+msgid "Polynesia"
+msgstr ""
+
+#: kernelbase.rc:297
+msgid "Central America"
+msgstr ""
+
+#: kernelbase.rc:298
+msgid "Oceania"
+msgstr ""
+
+#: kernelbase.rc:299
+msgid "Sint Maarten"
+msgstr ""
+
+#: kernelbase.rc:300
+msgid "South America"
+msgstr ""
+
+#: kernelbase.rc:301
+msgid "Saint Martin"
+msgstr ""
+
+#: kernelbase.rc:302
+msgid "World"
+msgstr ""
+
+#: kernelbase.rc:303
+msgid "Western Africa"
+msgstr ""
+
+#: kernelbase.rc:304
+msgid "Middle Africa"
+msgstr ""
+
+#: kernelbase.rc:305
+msgid "Northern Africa"
+msgstr ""
+
+#: kernelbase.rc:306
+msgid "Central Asia"
+msgstr ""
+
+#: kernelbase.rc:307
+msgid "South-Eastern Asia"
+msgstr ""
+
+#: kernelbase.rc:308
+msgid "Eastern Asia"
+msgstr ""
+
+#: kernelbase.rc:309
+msgid "Eastern Africa"
+msgstr ""
+
+#: kernelbase.rc:310
+msgid "Eastern Europe"
+msgstr ""
+
+#: kernelbase.rc:311
+msgid "Southern Europe"
+msgstr ""
+
+#: kernelbase.rc:312
+msgid "Middle East"
+msgstr ""
+
+#: kernelbase.rc:313
+msgid "Southern Asia"
+msgstr ""
+
+#: kernelbase.rc:314
+msgid "Timor-Leste"
+msgstr ""
+
+#: kernelbase.rc:315
+msgid "Kosovo"
+msgstr ""
+
+#: kernelbase.rc:316
+msgid "Americas"
+msgstr ""
+
+#: kernelbase.rc:317
+msgid "Åland Islands"
+msgstr ""
+
+#: kernelbase.rc:318
+msgid "Caribbean"
+msgstr ""
+
+#: kernelbase.rc:319
+msgid "Northern Europe"
+msgstr ""
+
+#: kernelbase.rc:320
+msgid "Southern Africa"
+msgstr ""
+
+#: kernelbase.rc:321
+msgid "Western Europe"
+msgstr ""
+
+#: kernelbase.rc:322
+msgid "Australia and New Zealand"
+msgstr ""
+
+#: kernelbase.rc:323
+msgid "Saint Barthélemy"
+msgstr ""
+
+#: kernelbase.rc:324
+msgid "U.S. Minor Outlying Islands"
+msgstr ""
+
+#: kernelbase.rc:325
+msgid "Latin America and the Caribbean"
+msgstr ""
+
+#: kernelbase.rc:326
+msgid "Bonaire, Sint Eustatius and Saba"
+msgstr ""
