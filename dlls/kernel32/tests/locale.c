@@ -5060,6 +5060,34 @@ static void test_GetGeoInfo(void)
         ok(!strcmp(buffA, "47609"), "got %s\n", buffA);
     }
 
+    /* GEO_FRIENDLYNAME. Valid entry, friendly names for countries
+     * are not universal but for en/en_US 203 is Russia */
+    SetLastError(0xdeadbeef);
+    ret = pGetGeoInfoA(203, GEO_FRIENDLYNAME, buffA, 20, 0);
+    ok(ret, "Got %u, expected non-zero\n", ret);
+    ok(GetLastError() == 0xdeadbeef, "Got %u, expected deadbeef\n", GetLastError());
+
+    if ((PRIMARYLANGID(LANGIDFROMLCID(GetSystemDefaultLCID())) != LANG_ENGLISH) ||
+        (PRIMARYLANGID(LANGIDFROMLCID(GetThreadLocale())) != LANG_ENGLISH))
+    {
+        skip("Non-English locale\n");
+    }
+    else
+        ok(!strcmp(buffA, "Russia"), "Got %s, expected Russia\n", buffA);
+
+    /* Entry that does not have a friendly name [Western Sahara (disputed)] */
+    SetLastError(0xdeadbeef);
+    ret = pGetGeoInfoA(257, GEO_FRIENDLYNAME, buffA, 20, 0);
+    ok(!ret, "Got %u, expected 0\n", ret);
+    ok(GetLastError() == ERROR_INVALID_PARAMETER ||
+            broken(GetLastError() == 0xdeadbeef) /* win10 1809 */, "Got %d, expected 87\n", GetLastError());
+
+    /* buffer too short (342 is "South Georgia and the South Sandwich Islands") */
+    SetLastError(0xdeadbeef);
+    ret = pGetGeoInfoA(342, GEO_FRIENDLYNAME, buffA, 20, 0);
+    ok(!ret, "Got %u, expected 0\n", ret);
+    ok(GetLastError() == ERROR_INSUFFICIENT_BUFFER, "Got %d, expected 87\n", GetLastError());
+
     buffA[0] = 0;
     ret = pGetGeoInfoA(203, GEO_ISO_UN_NUMBER, buffA, 20, 0);
     if (ret == 0)
