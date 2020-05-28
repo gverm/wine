@@ -166,3 +166,9 @@ BOOL WINAPI DiInstallDriverW(HWND parent, const WCHAR *inf_path, DWORD flags, BO
     FIXME("parent %p, inf_path %s, flags %#x, reboot %p, stub!\n", parent, debugstr_w(inf_path), flags, reboot);
     return TRUE;
 }
+
+BOOL WINAPI DiInstallDevice(HWND parent, HDEVINFO handle, PSP_DEVINFO_DATA devdata, PSP_DRVINFO_DATA dridata, DWORD flags, BOOL *reboot)
+{
+    FIXME("parent %p handle %p devdata %p dridata %p flags %#x reboot %p stub.\n", parent, handle, devdata, dridata, flags, reboot);
+    return TRUE;
+}
