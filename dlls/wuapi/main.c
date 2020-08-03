@@ -112,6 +112,7 @@ static wucf sessioncf = { { &wucf_vtbl }, UpdateSession_create };
 static wucf updatescf = { { &wucf_vtbl }, AutomaticUpdates_create };
 static wucf sysinfocf = { { &wucf_vtbl }, SystemInformation_create };
 static wucf installercf = { { &wucf_vtbl }, UpdateInstaller_create };
+static wucf agentcf = { { &wucf_vtbl }, AgentInformation_create };
 
 HRESULT WINAPI DllGetClassObject( REFCLSID rclsid, REFIID iid, LPVOID *ppv )
 {
@@ -134,6 +135,10 @@ HRESULT WINAPI DllGetClassObject( REFCLSID rclsid, REFIID iid, LPVOID *ppv )
     else if (IsEqualGUID( rclsid, &CLSID_UpdateInstaller ))
     {
        cf = &installercf.IClassFactory_iface;
+    }
+    else if (IsEqualGUID( rclsid, &CLSID_WindowsUpdateAgentInfo ))
+    {
+       cf = &agentcf.IClassFactory_iface;
     }
     if (!cf) return CLASS_E_CLASSNOTAVAILABLE;
     return IClassFactory_QueryInterface( cf, iid, ppv );

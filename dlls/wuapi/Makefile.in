@@ -4,6 +4,7 @@ IMPORTS   = uuid ole32 advapi32
 EXTRADLLFLAGS = -mno-cygwin -Wb,--prefer-native
 
 C_SRCS = \
+	agent.c \
 	downloader.c \
 	installer.c \
 	main.c \

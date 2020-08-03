@@ -16,6 +16,7 @@
  * Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301, USA
  */
 
+extern HRESULT AgentInformation_create( LPVOID *ppObj ) DECLSPEC_HIDDEN;
 extern HRESULT AutomaticUpdates_create( LPVOID *ppObj ) DECLSPEC_HIDDEN;
 extern HRESULT UpdateSession_create( LPVOID *ppObj ) DECLSPEC_HIDDEN;
 extern HRESULT UpdateSearcher_create( LPVOID *ppObj ) DECLSPEC_HIDDEN;
