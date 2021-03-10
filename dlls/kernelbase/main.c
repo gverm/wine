@@ -35,6 +35,7 @@ WINE_DEFAULT_DEBUG_CHANNEL(kernelbase);
 
 
 BOOL is_wow64 = FALSE;
+HMODULE KERNELBASE_hModule = 0;
 
 /***********************************************************************
  *           DllMain
@@ -43,6 +44,7 @@ BOOL WINAPI DllMain( HINSTANCE hinst, DWORD reason, LPVOID reserved )
 {
     if (reason == DLL_PROCESS_ATTACH)
     {
+        KERNELBASE_hModule = hinst;
         DisableThreadLibraryCalls( hinst );
         IsWow64Process( GetCurrentProcess(), &is_wow64 );
         init_locale();

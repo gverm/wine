@@ -42,6 +42,7 @@ extern const WCHAR system_dir[] DECLSPEC_HIDDEN;
 
 static const BOOL is_win64 = (sizeof(void *) > sizeof(int));
 extern BOOL is_wow64 DECLSPEC_HIDDEN;
+extern HMODULE KERNELBASE_hModule DECLSPEC_HIDDEN;
 
 static inline BOOL set_ntstatus( NTSTATUS status )
 {
